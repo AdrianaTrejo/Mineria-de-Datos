@@ -2,7 +2,7 @@
 ## Fase I
 [Examen Diagnostico](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Ex-Diagnostico_1853256.pdf)
 
-[Mapa Mental I]
+[Mapa Mental I](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/MapaMental_1_1853256.pdf)
 
 [Ejercicio de Bases de Datos]
 
