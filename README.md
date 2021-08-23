@@ -6,7 +6,7 @@
 
 [Ejercicio de Bases de Datos](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Equipo_7-Ejerciciobasededatos.pdf)
 
-[Ejercicios de Basicos de Python]
+[Ejercicios de Basicos de Python](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Ej_Python_1853256.ipynb)
 
 [Practica de Limpieza de Datos]
 
