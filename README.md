@@ -8,6 +8,6 @@
 
 [Ejercicios de Basicos de Python](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Ej_Python_1853256.ipynb)
 
-[Practica de Limpieza de Datos]
+[Practica de Limpieza de Datos](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo7.ipynb)
 
 [Primera Entrega de PIA]
