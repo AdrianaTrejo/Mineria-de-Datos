@@ -10,4 +10,4 @@
 
 [Practica de Limpieza de Datos](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo7.ipynb)
 
-[Primera Entrega de PIA]
+[Primera Entrega de PIA](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo7.ipynb)
