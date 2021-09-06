@@ -13,4 +13,4 @@
 [Primera Entrega de PIA](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo7.ipynb)
 
 ## Fase II
-[Presentacion de Tecnica po Equipo]
+[Presentacion de Tecnica por Equipo](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Presentacion_MaquinadeSoporteVectorial_Equipo7.pdf)
