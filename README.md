@@ -17,6 +17,6 @@
 
 [Preguntas de Tecnica por Equipo](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Preguntas_MaquinadeSoporteVectorial_Equipo7.pdf)
 
-[Practica de Visualizacion]
+[Practica de Visualizacion](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Visualizacion_Equipo7.ipynb)
 
 [Segunda Entrega de PIA](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/AvancePIA_II_Grupo_01_Equipo7.ipynb)
