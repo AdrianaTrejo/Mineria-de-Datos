@@ -20,3 +20,5 @@
 [Practica de Visualizacion](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Visualizacion_Equipo7.ipynb)
 
 [Segunda Entrega de PIA](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/AvancePIA_II_Grupo_01_Equipo7.ipynb)
+
+[Practica de Tecnica de Mineria]
