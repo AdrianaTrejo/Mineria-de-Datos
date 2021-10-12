@@ -21,4 +21,4 @@
 
 [Segunda Entrega de PIA](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/AvancePIA_II_Grupo_01_Equipo7.ipynb)
 
-[Practica de Tecnica de Mineria]
+[Practica de Tecnica de Mineria](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Tecnicas_de_mineria.ipynb)
